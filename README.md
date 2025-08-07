@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 
@@ -44,3 +45,6 @@
 - #### user
 - email: user@user.com
 - password: password
+=======
+# pickbrew-admin-panel
+>>>>>>> 84dfa17c98184cef1a3c5a03ba679b85e02d935e
